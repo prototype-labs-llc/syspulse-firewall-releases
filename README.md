@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/icon.png" width="128" alt="SysPulse Firewall のアイコン">
+</p>
+
 # SysPulse Firewall
 
 macOS のメニューバーで使える、シンプルな無料のファイアウォールです。受信・送信のブロックをワンクリックで切り替えられます。
